@@ -1,0 +1,80 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "nabulakal",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f0/f4/5a/f0f45a53-f500-0b26-9aac-390fd206ca48/cover.jpg/1200x1200bb.jpg",
+      "embedLink": "https://www.youtube.com/embed/OGwyhjk_fhE?autoplay=1"
+    },
+    {
+      "id": "3",
+      "caption": "minimaharani",
+      "imageUrl": "https://c.saavncdn.com/427/Mini-Maharani-From-Premalu-Malayalam-2024-20240306195453-500x500.jpg",
+      "embedLink": "https://www.youtube.com/embed/6G75yTBzBUA?autoplay=1"
+    },
+    {
+      "id": "6",
+      "caption": "Kurchi Madathapetti",
+      "imageUrl": "https://www.cinejosh.com/newsimg/newsmainimg/guntur-kaaram-kurchi-madathapetti-mahesh-sreeleela-mass-moves_b_3012230447.jpg",
+      "embedLink": "https://www.youtube.com/embed/gh3FyLT7WVg?autoplay=1"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Katchi Sera",
+      "url": "https://www.youtube.com/embed/VU23OPQ1Pmc?autoplay=1",
+      "timeStamp": "13/03/2024, 12:18:40",
+      "id": 3
+    },
+    {
+      "caption": "Katchi Sera",
+      "url": "https://www.youtube.com/embed/VU23OPQ1Pmc?autoplay=1",
+      "timeStamp": "15/03/2024, 11:10:05",
+      "id": 4
+    },
+    {
+      "caption": "nabulakal",
+      "url": "https://www.youtube.com/embed/OGwyhjk_fhE?autoplay=1",
+      "timeStamp": "15/03/2024, 12:30:27",
+      "id": 5
+    }
+  ],
+  "category": [
+    {
+      "category": "Tamil Song",
+      "allVideos": [
+        {
+          "id": "6",
+          "caption": "Kurchi Madathapetti",
+          "imageUrl": "https://www.cinejosh.com/newsimg/newsmainimg/guntur-kaaram-kurchi-madathapetti-mahesh-sreeleela-mass-moves_b_3012230447.jpg",
+          "embedLink": "https://www.youtube.com/embed/gh3FyLT7WVg?autoplay=1"
+        },
+        {
+          "id": "6",
+          "caption": "Kurchi Madathapetti",
+          "imageUrl": "https://www.cinejosh.com/newsimg/newsmainimg/guntur-kaaram-kurchi-madathapetti-mahesh-sreeleela-mass-moves_b_3012230447.jpg",
+          "embedLink": "https://www.youtube.com/embed/gh3FyLT7WVg?autoplay=1"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "category": "malayalam songs",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "nabulakal",
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f0/f4/5a/f0f45a53-f500-0b26-9aac-390fd206ca48/cover.jpg/1200x1200bb.jpg",
+          "embedLink": "https://www.youtube.com/embed/OGwyhjk_fhE?autoplay=1"
+        },
+        {
+          "id": "3",
+          "caption": "minimaharani",
+          "imageUrl": "https://c.saavncdn.com/427/Mini-Maharani-From-Premalu-Malayalam-2024-20240306195453-500x500.jpg",
+          "embedLink": "https://www.youtube.com/embed/6G75yTBzBUA?autoplay=1"
+        }
+      ],
+      "id": 6
+    }
+  ]
+}
